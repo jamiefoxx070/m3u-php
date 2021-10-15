@@ -1,4 +1,4 @@
 <?php 
-     header('Location: https://raw.githubusercontent.com/mortal251/ssiptvarg/main/fase2');
+     readfile('https://raw.githubusercontent.com/mortal251/ssiptvarg/main/fase2');     
      exit();
 ?>
